@@ -1,6 +1,6 @@
 /**
- * Template Name: Dwaya - v4.1.0
- * Template URL: https://bootstrapmade.com/Dwaya-free-bootstrap-landing-page-template/
+ * Template Name: khalili - v4.1.0
+ * Template URL: https://bootstrapmade.com/khalili-free-bootstrap-landing-page-template/
  * Author: BootstrapMade.com
  * License: https://bootstrapmade.com/license/
  */
